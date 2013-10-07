@@ -1,0 +1,34 @@
+{
+  "name": "webflight-leappilot",
+  "version": "0.0.1",
+  "description": "Plugin for webflight that lets you control a drone with a leap motion sensor.",
+  "main": "./index.js",
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+  },
+  "bin": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ChristianKohler/LeapPilot.git"
+  },
+  "keywords": [
+    "leap",
+    "motion",
+    "AR.Drone",
+    "drone",
+    "webflight"
+  ],
+  "author": {
+    "name": "Christian Kohler",
+    "email": "kohler.christian@gmail.com"
+  },
+  "license": "MIT/X11",
+  "engine": {
+    "node": ">=0.4"
+  }
+}
